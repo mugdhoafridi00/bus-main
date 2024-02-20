@@ -1,0 +1,12 @@
+.backgrund {
+    
+        background-image: url('banner.jpg');
+        /* Adjust background properties as needed */
+        background-size: cover; /* cover the entire container */
+        background-position: center; /* center the background image */
+        background-repeat:no-repeat ;
+        height: 550px;
+        margin-right: 70px;
+       position: relative;
+     
+}
